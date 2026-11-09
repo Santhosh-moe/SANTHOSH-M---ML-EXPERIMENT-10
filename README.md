@@ -1,5 +1,4 @@
-### DATE : 10/11/2026
-
+### Experiment 10: Back propagation numeric example for single neuron
 
 
 
